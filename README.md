@@ -68,7 +68,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 ## 📫 Let's Connect
 
 - 🌐 [Website](https://dobroslav.io/me)
-- 𝕏 [X](https://dobroslav.io/x)
+- 𝕏 [X/Twitter](https://dobroslav.io/x)
 - 💼 [LinkedIn](https://dobroslav.io/linkedin)
 - 📺 [YouTube](https://dobroslav.io/youtube)
 - 🎮 [Twitch](https://dobroslav.io/twitch)
