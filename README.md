@@ -52,6 +52,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 📦 [npm-ts-start](https://github.com/DobroslavRadosavljevic/npm-ts-start) | Minimal starter template for creating npm packages in TypeScript |
 | 🔍 [npname](https://github.com/DobroslavRadosavljevic/npname) | npm package name validation & availability checker with CLI |
 | 📏 [hsize](https://github.com/DobroslavRadosavljevic/hsize) | Convert bytes to human-readable strings and back |
+| 🔌 [spigot-sdk](https://github.com/DobroslavRadosavljevic/spigot-sdk) | Type-safe TypeScript SDK for the SpigotMC Resource Manager API |
 | ⛏️ [awesome-minecraft-hostings](https://github.com/DobroslavRadosavljevic/awesome-minecraft-hostings) | Curated list of Minecraft server hosting providers |
 | 💰 [awesome-startup-deals](https://github.com/DobroslavRadosavljevic/awesome-startup-deals) | Curated collection of startup deals & discounts |
 
