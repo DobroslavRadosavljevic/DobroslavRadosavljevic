@@ -46,13 +46,15 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 ## 🤖 AI Stuff I Use
 
-- 🎯 **Cursor** - AI-powered IDE with multi-agent workflows and Composer model
-- 🧠 **Claude Code** - Terminal-based AI coding assistant using Claude Opus 4.5
-- 💻 **GitHub Copilot** - AI pair programmer with GPT-5.2-Codex integration
-- ⚡ **OpenAI Codex** - GPT-5.2-Codex for agentic coding tasks
-- 🎨 **v0** - Vercel's AI-powered UI component generator
-- 🤖 **Devin** - AI coding agent for autonomous software development
-- 🐰 **CodeRabbit** - AI-powered automated code review for pull requests
+- 🎯 **[Cursor](https://cursor.com)** - AI-powered IDE with multi-agent workflows and Composer model
+- 🧠 **[Claude Code](https://claude.ai)** - Terminal-based AI coding assistant using Claude Opus 4.5
+- 💻 **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer with GPT-5.2-Codex integration
+- ⚡ **[OpenAI Codex](https://chatgpt.com/codex)** - GPT-5.2-Codex for agentic coding tasks
+- 🎨 **[v0](https://v0.dev)** - Vercel's AI-powered UI component generator
+- 🤖 **[Devin](devin.ai)** - AI coding agent for autonomous software development
+- 🐰 **[CodeRabbit](https://coderabbit.ai)** - AI-powered automated code review for pull requests
+- ⚡ **[Warp](https://www.warp.dev)** - Modern terminal with Agentic Development Environment and AI coding agents
+- 🔓 **[OpenCode](https://opencode.ai)** - Open-source terminal-first AI coding agent with privacy focus
 - ...and much more
 
 ## 🚀 Personal projects
