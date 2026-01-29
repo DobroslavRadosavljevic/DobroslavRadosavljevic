@@ -44,7 +44,18 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 - 🔍 **Sentry** - Error monitoring
 - ⏰ **Trigger.dev** - Background jobs
 
-## 🚀 Projects
+## 🤖 AI Stuff I Use
+
+- 🎯 **Cursor** - AI-powered IDE with multi-agent workflows and Composer model
+- 🧠 **Claude Code** - Terminal-based AI coding assistant using Claude Opus 4.5
+- 💻 **GitHub Copilot** - AI pair programmer with GPT-5.2-Codex integration
+- ⚡ **OpenAI Codex** - GPT-5.2-Codex for agentic coding tasks
+- 🎨 **v0** - Vercel's AI-powered UI component generator
+- 🤖 **Devin** - AI coding agent for autonomous software development
+- 🐰 **CodeRabbit** - AI-powered automated code review for pull requests
+- ...and much more
+
+## 🚀 Personal projects
 
 | Project | Description |
 | ------- | ----------- |
@@ -56,6 +67,20 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | ⚡ [workerlysia](https://github.com/DobroslavRadosavljevic/workerlysia) | Starter kit for building type-safe APIs with Elysia on Cloudflare Workers |
 | ⛏️ [awesome-minecraft-hostings](https://github.com/DobroslavRadosavljevic/awesome-minecraft-hostings) | Curated list of Minecraft server hosting providers |
 | 💰 [awesome-startup-deals](https://github.com/DobroslavRadosavljevic/awesome-startup-deals) | Curated collection of startup deals & discounts |
+
+## 💼 Client projects
+
+| Project | Description |
+| ------- | ----------- |
+| 🚗 [Stratos Auto](https://www.stratosauto.cz/) | Car dealership website for Kia and Iveco vehicles |
+| 🛡️ [FaceUp](https://www.faceup.com/) | Whistleblowing and compliance platform for organizations |
+| 🎁 [Albert Gift Card](https://darkovakarta.albert.cz/) | Gift card balance check for Albert supermarket chain |
+| 💳 [Switchio](https://switchio.com/) | Payment orchestration platform for merchants |
+| 📰 [Retriever](https://retriever.dk/) | Media monitoring and social media management platform |
+| 🎰 [5bet](https://5bet.com/) | Online casino and sports betting platform |
+| 🎮 [GOCORE](https://www.gocore.gg/) | Esports media hub for CS2 and Dota 2 |
+| 🏗️ [Towers](https://klikz.easyplug.io/games/towers) | Grid-based click-to-reveal casino game with risk and reward mechanics |
+| 🎲 [Dice](https://klikz.easyplug.io/games/dice) | Classic dice rolling casino game with provably fair outcomes |
 
 ## 🐍 Contribution Graph
 
