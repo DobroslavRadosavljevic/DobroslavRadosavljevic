@@ -84,6 +84,8 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 🏗️ [Towers](https://klikz.easyplug.io/games/towers) | Grid-based click-to-reveal casino game with risk and reward mechanics |
 | 🎲 [Dice](https://klikz.easyplug.io/games/dice) | Classic dice rolling casino game with provably fair outcomes |
 
+*...and a few other projects that are under NDA or private internal*
+
 ## 🐍 Contribution Graph
 
 <div align="center">
