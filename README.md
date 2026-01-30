@@ -67,6 +67,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 📏 [hsize](https://github.com/DobroslavRadosavljevic/hsize) | Convert bytes to human-readable strings and back |
 | 🔌 [spigot-sdk](https://github.com/DobroslavRadosavljevic/spigot-sdk) | Type-safe TypeScript SDK for the SpigotMC Resource Manager API |
 | ⚡ [workerlysia](https://github.com/DobroslavRadosavljevic/workerlysia) | Starter kit for building type-safe APIs with Elysia on Cloudflare Workers |
+| 🦊 [elysia-start](https://github.com/DobroslavRadosavljevic/elysia-start) | Modern, batteries-included starter kit for building fast backend servers with Elysia and Bun |
 | ⛏️ [awesome-minecraft-hostings](https://github.com/DobroslavRadosavljevic/awesome-minecraft-hostings) | Curated list of Minecraft server hosting providers |
 | 💰 [awesome-startup-deals](https://github.com/DobroslavRadosavljevic/awesome-startup-deals) | Curated collection of startup deals & discounts |
 
