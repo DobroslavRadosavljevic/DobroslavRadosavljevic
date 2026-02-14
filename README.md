@@ -62,6 +62,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | Project | Description |
 | ------- | ----------- |
 | 🌐 [ogie](https://github.com/DobroslavRadosavljevic/ogie) | Extract OpenGraph, Twitter Cards & JSON-LD metadata from webpages |
+| 📈 [trendsearch](https://github.com/DobroslavRadosavljevic/trendsearch) | Modern Google Trends SDK for Node.js and Bun with strict Zod validation |
 | 📦 [npm-ts-start](https://github.com/DobroslavRadosavljevic/npm-ts-start) | Minimal starter template for creating npm packages in TypeScript |
 | ⚛️ [npm-react-start](https://github.com/DobroslavRadosavljevic/npm-react-start) | Minimal starter template for creating React component libraries with TypeScript |
 | 🔍 [npname](https://github.com/DobroslavRadosavljevic/npname) | npm package name validation & availability checker with CLI |
