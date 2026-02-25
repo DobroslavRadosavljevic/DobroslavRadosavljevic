@@ -97,43 +97,6 @@ I work primarily with TypeScript across the entire stack, from React frontends t
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake-dark.svg" />
 </picture>
-</div>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://dobroslav.io/me" aria-label="Website" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#4A4A4A;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/solid/globe.svg" alt="Website" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/x" aria-label="X" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#000000;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/x-twitter.svg" alt="X" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/linkedin" aria-label="LinkedIn" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#0A66C2;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/linkedin-in.svg" alt="LinkedIn" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/youtube" aria-label="YouTube" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#FF0000;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/youtube.svg" alt="YouTube" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/twitch" aria-label="Twitch" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#6441A4;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/twitch.svg" alt="Twitch" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/producthunt" aria-label="Product Hunt" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#DA552F;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/product-hunt.svg" alt="Product Hunt" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/medium" aria-label="Medium" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#12100E;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/medium.svg" alt="Medium" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/reddit" aria-label="Reddit" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#FF4500;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/reddit.svg" alt="Reddit" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/instagram" aria-label="Instagram" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#E4405F;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/instagram.svg" alt="Instagram" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-  <a href="https://dobroslav.io/tiktok" aria-label="TikTok" style="display:inline-block;width:30px;height:30px;padding:4px;margin:0 6px;border-radius:9999px;background:#000000;">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/brands/tiktok.svg" alt="TikTok" style="display:block;width:100%;height:100%;filter:invert(1);" />
-  </a>
-</p>
+</div>>
 
 ---
-
-⭐ Thanks for visiting!
