@@ -98,5 +98,3 @@ I work primarily with TypeScript across the entire stack, from React frontends t
   <img alt="github-snake" src="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake-dark.svg" />
 </picture>
 </div>>
-
----
