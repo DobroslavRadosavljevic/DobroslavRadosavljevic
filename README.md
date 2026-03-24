@@ -13,6 +13,12 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 ### Frontend
 
+- 🧭 **TanStack Start** - Full-stack React framework in the TanStack ecosystem
+- 🛣️ **TanStack Router** - End-to-end type-safe routing for React apps
+- 🔄 **TanStack Query** - Server state fetching, caching, and synchronization
+- 📝 **TanStack Form** - Type-safe form state and validation
+- 🧩 **Base UI** - Accessible unstyled primitives for custom UI systems
+- 🧱 **shadcn/ui** - Reusable component patterns built on modern primitives
 - ⚛️ **React 19** - UI library with the latest features
 - ▲ **Next.js 16** - Full-stack React framework
 - 🎨 **Tailwind CSS 4** - Utility-first styling
@@ -21,6 +27,8 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 ### Backend
 
+- 🔐 **Better Auth** - Authentication with modern DX and flexible auth flows
+- 📧 **React Email** - Email templates built with React
 - 🦊 **Elysia** - Bun-native web framework with end-to-end type safety
 - 🔗 **oRPC** - Type-safe RPC with OpenAPI support
 - 🗄️ **Drizzle ORM** - TypeScript-first database toolkit
@@ -36,6 +44,9 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 ### Infrastructure & Tooling
 
+- ⚡ **Vite** - Fast frontend tooling and dev server
+- ☁️ **Upstash Redis** - Serverless Redis for caching and rate limiting
+- 📊 **PostHog** - Product analytics and event tracking
 - ⚡ **Turborepo** - Monorepo build system
 - 🐳 **Docker** - Containerization
 - ☁️ **Vercel** - Frontend deployment
@@ -100,4 +111,4 @@ I work primarily with TypeScript across the entire stack, from React frontends t
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake-dark.svg" />
 </picture>
-</div>>
+</div>
