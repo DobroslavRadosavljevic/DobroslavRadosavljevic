@@ -102,13 +102,3 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 🎲 [Dice](https://klikz.easyplug.io/games/dice) | Classic dice rolling casino game with provably fair outcomes |
 
 *...and a few other projects that are under NDA or private internal*
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DobroslavRadosavljevic/DobroslavRadosavljevic/output/github-snake-dark.svg" />
-</picture>
-</div>
