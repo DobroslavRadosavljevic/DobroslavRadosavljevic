@@ -39,7 +39,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 ### AI & Integrations
 
 - 🤖 **Vercel AI SDK** - Unified API for multiple AI providers
-- 🧠 **OpenAI, Anthropic, Google, Groq, Mistral** - LLM integrations
+- 🧠 **Frontier AI models** - GPT-5.5/Codex, Claude Opus 4.8, Gemini 3.5/Omni, Grok 4.3, Mistral Large 3/Devstral 2, Llama 4, DeepSeek V4, and Groq-hosted inference
 - 🔊 **ElevenLabs** - Voice AI
 
 ### Infrastructure & Tooling
@@ -57,11 +57,11 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 ## 🤖 AI Stuff I Use
 
-- 🎯 **[Cursor](https://cursor.com)** - AI-powered IDE with multi-agent workflows and Composer model
-- 🧠 **[Claude Code](https://claude.ai)** - Terminal-based AI coding assistant using Claude Opus 4.5
-- 💻 **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer with GPT-5.3-Codex and Codex Spark integration
-- ⚡ **[OpenAI Codex](https://chatgpt.com/codex)** - GPT-5.3-Codex and Codex Spark for agentic coding tasks
-- 🎨 **[v0](https://v0.dev)** - Vercel's AI-powered UI component generator
+- 🎯 **[Cursor](https://cursor.com)** - AI-powered IDE with Composer 2.5 and frontier models like GPT-5.5, Claude Opus 4.8, Gemini 3.5, and Grok 4.3
+- 🧠 **[Claude Code](https://claude.ai)** - Terminal-based AI coding assistant using Claude Opus 4.8 and dynamic workflows
+- 💻 **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer with GPT-5.5, GPT-5.3-Codex, Claude Opus 4.8, Gemini 3.5 Flash, and auto model selection
+- ⚡ **[OpenAI Codex](https://chatgpt.com/codex)** - GPT-5.5 for complex coding, GPT-5.4 mini for faster subagents, and GPT-5.3-Codex Spark for real-time iteration
+- 🎨 **[v0](https://v0.dev)** - Vercel's AI-powered UI generator with composite models and current AI Gateway model access
 - 🤖 **[Devin](https://devin.ai)** - AI coding agent for autonomous software development
 - 🐰 **[CodeRabbit](https://coderabbit.ai)** - AI-powered automated code review for pull requests
 - ⚡ **[Warp](https://www.warp.dev)** - Modern terminal with Agentic Development Environment and AI coding agents
