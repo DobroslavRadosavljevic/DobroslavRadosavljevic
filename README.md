@@ -73,8 +73,9 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | Project | Description |
 | ------- | ----------- |
 | 🔒 [favicon-proxy](https://github.com/DobroslavRadosavljevic/favicon-proxy) | Privacy-friendly favicon API for Cloudflare Workers — browsers never hit Google for icons |
+| 📚 [anhur](https://github.com/DobroslavRadosavljevic/anhur) | Turn content files in your repo into typed data your app can import |
 | 🌐 [ogie](https://github.com/DobroslavRadosavljevic/ogie) | Extract OpenGraph, Twitter Cards & JSON-LD metadata from webpages |
-| 🧠 [skills](https://github.com/DobroslavRadosavljevic/skills) | Reusable AI skills for Base UI, next-intl, and other libraries |
+| 🧠 [skills](https://github.com/DobroslavRadosavljevic/skills) | 70+ reusable AI agent skills for TypeScript, React, TanStack, Elysia, Effect, Cloudflare, and more |
 | 📈 [trendsearch](https://github.com/DobroslavRadosavljevic/trendsearch) | Modern Google Trends SDK for Node.js and Bun with strict Zod validation |
 | 📦 [npm-ts-start](https://github.com/DobroslavRadosavljevic/npm-ts-start) | Minimal starter template for creating npm packages in TypeScript |
 | ⚛️ [npm-react-start](https://github.com/DobroslavRadosavljevic/npm-react-start) | Minimal starter template for creating React component libraries with TypeScript |
