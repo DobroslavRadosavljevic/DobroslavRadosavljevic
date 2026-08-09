@@ -73,6 +73,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | Project | Description |
 | ------- | ----------- |
 | 🔒 [favicon-proxy](https://github.com/DobroslavRadosavljevic/favicon-proxy) | Privacy-friendly favicon API for Cloudflare Workers — browsers never hit Google for icons |
+| 🧪 [oxlint](https://github.com/dobroslavlabs/oxlint) | Small experiment: custom Oxlint rules and presets for JS/TS, React, Elysia, Effect, Bun, and Zod |
 | 📚 [anhur](https://github.com/DobroslavRadosavljevic/anhur) | Turn content files in your repo into typed data your app can import |
 | 🌐 [ogie](https://github.com/DobroslavRadosavljevic/ogie) | Extract OpenGraph, Twitter Cards & JSON-LD metadata from webpages |
 | 🧠 [skills](https://github.com/DobroslavRadosavljevic/skills) | 70+ reusable AI agent skills for TypeScript, React, TanStack, Elysia, Effect, Cloudflare, and more |
