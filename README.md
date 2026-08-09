@@ -72,6 +72,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 | Project | Description |
 | ------- | ----------- |
+| 🔒 [favicon-proxy](https://github.com/DobroslavRadosavljevic/favicon-proxy) | Privacy-friendly favicon API for Cloudflare Workers — browsers never hit Google for icons |
 | 🌐 [ogie](https://github.com/DobroslavRadosavljevic/ogie) | Extract OpenGraph, Twitter Cards & JSON-LD metadata from webpages |
 | 🧠 [skills](https://github.com/DobroslavRadosavljevic/skills) | Reusable AI skills for Base UI, next-intl, and other libraries |
 | 📈 [trendsearch](https://github.com/DobroslavRadosavljevic/trendsearch) | Modern Google Trends SDK for Node.js and Bun with strict Zod validation |
