@@ -101,7 +101,5 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 📰 [Retriever](https://retriever.dk/) | Media monitoring and social media management platform |
 | 🎰 [5bet](https://5bet.com/) | Online casino and sports betting platform |
 | 🎮 [GOCORE](https://www.gocore.gg/) | Esports media hub for CS2 and Dota 2 |
-| 🏗️ [Towers](https://klikz.easyplug.io/games/towers) | Grid-based click-to-reveal casino game with risk and reward mechanics |
-| 🎲 [Dice](https://klikz.easyplug.io/games/dice) | Classic dice rolling casino game with provably fair outcomes |
 
 *...and a few other projects that are under NDA or private internal*
