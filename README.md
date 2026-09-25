@@ -80,7 +80,6 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 📈 [trendsearch](https://github.com/DobroslavRadosavljevic/trendsearch) | Modern Google Trends SDK for Node.js and Bun with strict Zod validation |
 | 📦 [npm-ts-start](https://github.com/DobroslavRadosavljevic/npm-ts-start) | Minimal starter template for creating npm packages in TypeScript |
 | ⚛️ [npm-react-start](https://github.com/DobroslavRadosavljevic/npm-react-start) | Minimal starter template for creating React component libraries with TypeScript |
-| ⚡ [react-start](https://github.com/DobroslavRadosavljevic/react-start) | Focused Vite + React starter powered by Bun, Tailwind CSS v4, and shadcn/base-nova |
 | ▲ [next-start](https://github.com/DobroslavRadosavljevic/next-start) | Very basic Next.js starter kit |
 | 🔍 [npname](https://github.com/DobroslavRadosavljevic/npname) | npm package name validation & availability checker with CLI |
 | 📏 [hsize](https://github.com/DobroslavRadosavljevic/hsize) | Convert bytes to human-readable strings and back |
