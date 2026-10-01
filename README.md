@@ -78,6 +78,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | 🌐 [ogie](https://github.com/DobroslavRadosavljevic/ogie) | Extract OpenGraph, Twitter Cards & JSON-LD metadata from webpages |
 | 🧠 [skills](https://github.com/DobroslavRadosavljevic/skills) | 70+ reusable AI agent skills for TypeScript, React, TanStack, Elysia, Effect, Cloudflare, and more |
 | 📈 [trendsearch](https://github.com/DobroslavRadosavljevic/trendsearch) | Modern Google Trends SDK for Node.js and Bun with strict Zod validation |
+| 🧰 [tsdown-kit](https://github.com/DobroslavRadosavljevic/tsdown-kit) | Starter kit for TypeScript npm packages (library, CLI, or both) with Bun, tsdown, TypeScript 7, Vitest, and npm trusted publishing |
 | 📦 [npm-ts-start](https://github.com/DobroslavRadosavljevic/npm-ts-start) | Minimal starter template for creating npm packages in TypeScript |
 | ⚛️ [npm-react-start](https://github.com/DobroslavRadosavljevic/npm-react-start) | Minimal starter template for creating React component libraries with TypeScript |
 | ▲ [next-start](https://github.com/DobroslavRadosavljevic/next-start) | Very basic Next.js starter kit |
