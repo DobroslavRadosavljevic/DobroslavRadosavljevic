@@ -73,6 +73,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 | Project | Description |
 | ------- | ----------- |
 | 📦 [Boxyard](https://boxyard.dev/) | Compare pricing, limits and features of every cloud sandbox for AI agents |
+| 🖼️ [iframecheck](https://iframecheck.com/) | Test if a page can load in an iframe, and see the headers that block it |
 | 🔒 [favicon-proxy](https://github.com/DobroslavRadosavljevic/favicon-proxy) | Privacy-friendly favicon API for Cloudflare Workers — browsers never hit Google for icons |
 | 🧪 [oxlint](https://github.com/dobroslavlabs/oxlint) | Small experiment: custom Oxlint rules and presets for JS/TS, React, Elysia, Effect, Bun, and Zod |
 | 📚 [anhur](https://github.com/DobroslavRadosavljevic/anhur) | Turn content files in your repo into typed data your app can import |
