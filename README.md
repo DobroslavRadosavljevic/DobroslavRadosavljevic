@@ -39,7 +39,7 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 ### AI & Integrations
 
 - 🤖 **Vercel AI SDK** - Unified API for multiple AI providers
-- 🧠 **Frontier AI models** - GPT-5.5/Codex, Claude Opus 4.8, Gemini 3.5/Omni, Grok 4.3, Mistral Large 3/Devstral 2, Llama 4, DeepSeek V4, and Groq-hosted inference
+- 🧠 **Frontier AI models** - GPT-6 Astra and GPT-5.6 (Sol, Terra, Luna), Claude Fable 5.1, Opus 5.5 and Sonnet 5.5, Gemini 4 Argon and 3.8 Flash, Grok 4.7, Mistral Large 4, Meta Muse Spark, DeepSeek V4.1, Qwen3.8-Max, and Groq-hosted inference
 - 🔊 **ElevenLabs** - Voice AI
 
 ### Infrastructure & Tooling
@@ -57,10 +57,10 @@ I work primarily with TypeScript across the entire stack, from React frontends t
 
 ## 🤖 AI Stuff I Use
 
-- 🎯 **[Cursor](https://cursor.com)** - AI-powered IDE with Composer 2.5 and frontier models like GPT-5.5, Claude Opus 4.8, Gemini 3.5, and Grok 4.3
-- 🧠 **[Claude Code](https://claude.ai)** - Terminal-based AI coding assistant using Claude Opus 4.8 and dynamic workflows
-- 💻 **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer with GPT-5.5, GPT-5.3-Codex, Claude Opus 4.8, Gemini 3.5 Flash, and auto model selection
-- ⚡ **[OpenAI Codex](https://chatgpt.com/codex)** - GPT-5.5 for complex coding, GPT-5.4 mini for faster subagents, and GPT-5.3-Codex Spark for real-time iteration
+- 🎯 **[Cursor](https://cursor.com)** - AI-powered IDE with Composer and frontier models like GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, and Grok 4.7
+- 🧠 **[Claude Code](https://claude.ai)** - Terminal-based AI coding assistant using Claude Opus 5.5, Fable 5.1, and dynamic workflows
+- 💻 **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer with frontier models from OpenAI, Anthropic, Google, and xAI, plus auto model selection
+- ⚡ **[OpenAI Codex](https://chatgpt.com/codex)** - GPT-6 Astra for complex coding, GPT-5.6 Terra for everyday work, and GPT-5.6 Luna for fast subagents
 - 🎨 **[v0](https://v0.dev)** - Vercel's AI-powered UI generator with composite models and current AI Gateway model access
 - 🤖 **[Devin](https://devin.ai)** - AI coding agent for autonomous software development
 - 🐰 **[CodeRabbit](https://coderabbit.ai)** - AI-powered automated code review for pull requests
